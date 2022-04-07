@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\st\source\repos\Xonix\barrier.h(30,28): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\st\source\repos\Xonix\Game.cpp(48,22): error C2601: 'Game::update': local function definitions are illegal
+C:\Users\st\source\repos\Xonix\Game.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\st\source\repos\Xonix\Game.cpp(61,18): error C2601: 'Game::draw': local function definitions are illegal
+C:\Users\st\source\repos\Xonix\Game.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\st\source\repos\Xonix\Game.cpp(35): fatal error C1075: '{': no matching token found
